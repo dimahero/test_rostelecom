@@ -3,4 +3,4 @@
 Для запуска тестов необходимо следующее:
   - папка с драйвером Chromedriver должна находиться в директории нахождения набора тест-кейсов
   - установить библиотеки selenium и pytest
-  - в терминале PyCharm вбить команду: python -m pytest -v --driver Chrome --driver-path /Chromedriver/chromedriver.exe test_selenium_rostelecom.py
+  - в терминале PyCharm вбить команду: python -m pytest -v --driver Chrome --driver-path /Chromedriver/chromedriver.exe test_rostelecom.py
